@@ -1,2 +1,2 @@
-# Carousel_3d
+# react-vertical-carousel-project
 Created with CodeSandbox
